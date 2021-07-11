@@ -5,7 +5,7 @@ resource "google_container_cluster" "kubey" {
 
   master_auth {
     username = "vibhuti-abhi"
-    password = "vibhutichalise16"
+    password = ""
   }
 
   #authorizations scopes
